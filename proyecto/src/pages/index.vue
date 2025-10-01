@@ -1,7 +1,7 @@
 <template>
   
     <v-app-bar color="primary" dark>
-      <v-app-bar-title>MedExplora - Modelo Anatómico</v-app-bar-title>
+      <v-app-bar-title>Modelo Anatómico</v-app-bar-title>
       <v-spacer></v-spacer>
       <v-btn icon @click="toggleFullscreen">
         <v-icon>mdi-fullscreen</v-icon>
